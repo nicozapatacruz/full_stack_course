@@ -25,20 +25,6 @@
 
 <br>
 
-<h3 align="center">Karen Hernandez</h3>
-
-<h5 align="center">"Tengo 22 años,soy de Bogotá, Colombia.
-Estudio diseño grafico, tengo muchas habilidades con teoria del color y en el manejo de programas de diseño, como lo son illustrator, photoshop, etc.
-tambien cuento con habilidades para la resolución de problemas y trabajo en equipo "</h5>
-
-<br>
-
-<h3 align="center">Pablo Calvo</h3>
-
-<h5 align="center">"Tengo 35 años, actualmente me encuentro viviendo en Saavedra, CABA, Argentina. Tengo varios años de experiencia como soporte técnico en varios niveles. Actualmente me encuentro trabajando como administrador VOIP, administro servidores, pbx Asterisk con Kamailio en servidores Proxmox. Adicional a eso tengo experiencia con base de datos mysql."</h5>
-
-<br>
-
 <h3 align="center">Nicolas Zapata Cruz</h3>
 
 <h5 align="center">"Tengo 23 años, soy de Medellín, Colombia.
